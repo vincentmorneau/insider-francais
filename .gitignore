@@ -1,0 +1,11 @@
+# Folders
+.DS_Store
+bin
+node_modules
+www/dist
+
+logs
+*.log
+*.map
+/www/dist/css/app.css.map
+apexcl.config.json
